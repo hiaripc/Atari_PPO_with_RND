@@ -1,5 +1,7 @@
-# Atari Freeway with Proximal Policy Optimization and Random Network Distillation
+# Playing Atari with Proximal Policy Optimization and Random Network Distillation
 
+*WIP* 
+**Consult the report.pdf file for details**
 ## Implementation
 
 We implemented the PPO algorithm to create an agent capable of playing the Atari game Freeway, following the paper's hyperparameters for Atari games. The implementation involves 8 parallel actors playing for 128 timesteps, for a total of 10 million steps in the environment. The network architecture is the same used in the PPO paper, described in [Nature paper on deep reinforcement learning](citet*{nature-dl}), with one head for the actor and one for the critic.
