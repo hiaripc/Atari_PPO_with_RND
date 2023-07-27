@@ -4,7 +4,7 @@
 **Consult the report.pdf file for details**
 
 A representation of Random Network Distillation exploration bonus:
-[RND](./images/RND.jpg)
+[RND](AAS.jpg)
 
 ## Implementation
 
