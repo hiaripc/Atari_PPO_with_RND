@@ -4,7 +4,7 @@
 **Consult the report.pdf file for details**
 
 A representation of Random Network Distillation exploration bonus:
-[RND](AAS.jpg)
+![RND](https://github.com/hiaripc/Atari_PPO_with_RND/blob/main/AAS.jpg)
 
 ## Implementation
 
